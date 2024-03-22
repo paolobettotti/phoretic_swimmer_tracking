@@ -1,2 +1,2 @@
 # swimmer_tracking
-python routine to track the rototranslational movement of an active swimmer
+The routine takes as input the name of a video file and analyze the movement of a single object by detecting both translations and rotations.
